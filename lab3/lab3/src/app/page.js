@@ -1,6 +1,7 @@
+
 // app/page.js
-import Header from './components/Header';
-import SignUpForm from './components/SignUpForm';
+import Header from '../components/Header';
+import SignUpForm from '../components/SignUpForm';
 
 export default function Page() {
   return (

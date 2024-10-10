@@ -1,5 +1,4 @@
-// components/SignUpForm.js
-'use client'; // Necesario para usar hooks en componentes cliente
+'use client'; 
 
 import { useState } from 'react';
 import { Form, Button, Col, Row } from 'react-bootstrap';
